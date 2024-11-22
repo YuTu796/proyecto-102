@@ -1,0 +1,45 @@
+.fa.fa-grav {
+  color: #5a9999;
+  background-color: #282d32;
+}
+
+.fa.fa-grav:hover {
+  color: var(--bs-indigo);
+}
+
+.nav-item {
+  background-color: #565454;
+}
+
+.fa.fa-maxcdn {
+  color: var(--bs-green);
+}
+
+.fa.fa-maxcdn:hover {
+  color: var(--bs-cyan);
+}
+
+.fa.fa-pied-piper-alt {
+  color: var(--bs-red);
+}
+
+.fa.fa-pied-piper-alt:hover {
+  color: var(--bs-yellow);
+}
+
+.fa.fa-moon-o {
+  color: var(--bs-indigo);
+}
+
+.fa.fa-moon-o:hover {
+  color: var(--bs-blue);
+}
+
+.navbar-nav {
+  background-color: var(--bs-gray-900);
+}
+
+a {
+  background-color: var(--bs-gray-900);
+}
+
